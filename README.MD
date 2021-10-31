@@ -8,3 +8,4 @@ This text are writen in Notepad
 
 ## Local Developer
 1. Open Program.cs in your VS Code
+2. hhii
