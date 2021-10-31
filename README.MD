@@ -2,7 +2,8 @@
 
 This is the Test 2
 
-And this is the second text /n
+And this is the second text 
+
 This text are writen in Notepad
 
 ## Local Developer
